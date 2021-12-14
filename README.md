@@ -10,7 +10,7 @@
 
 # Design
 
-The design of the art symbol is related to that of the [peace sign](https://en.wikipedia.org/wiki/Peace_symbols) in that both are derive their meaning from [flag semaphore](https://en.wikipedia.org/wiki/Flag_semaphore). As the peace sign's meaning is based on the nuclear disarmament movement - the sign is the superimposition of N and D in flag semaphore for nuclear disarmament - the art symbol is the superimposition of A, R and T. The T of the symbol is offset to the right of its natural position to create two arrows.
+The design of the art symbol is related to that of the [peace sign](https://en.wikipedia.org/wiki/Peace_symbols) in that both derive their meaning from [flag semaphore](https://en.wikipedia.org/wiki/Flag_semaphore). As the peace sign's meaning is based on the nuclear disarmament movement - the sign is the superimposition of N and D in flag semaphore for nuclear disarmament - the art symbol is the superimposition of A, R and T. The T of the symbol is offset to the right of its natural position to create two arrows.
 
 # Meaning
 
