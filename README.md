@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/andrewtavis/art-symbol"><img src="https://raw.githubusercontent.com/andrewtavis/art-symbol/main/art-symbol_grey_transparent.png" width=400 height=400 alt="art symbol"></a>
+  <a href="https://github.com/andrewtavis/art-symbol"><img src="https://raw.githubusercontent.com/andrewtavis/art-symbol/main/art-symbol_grey_transparent.png" width=300 height=300 alt="art symbol"></a>
 </div>
 
 ---
@@ -20,6 +20,6 @@ Possible meanings behind the art symbol include but are not limited to:
 - The square around the arrows could represent the social constructs in which art always takes place
 - The offsetting of T could represent art's habit of breaking rules to create works that are aesthetically appealing
 
-# license
+# License
 
 This work is published under the [Creative Commons 0](https://creativecommons.org/share-your-work/public-domain/cc0/) license meaning that it is fully in the public domain. Others may freely build upon, enhance and reuse this work for any purposes without restriction under copyright law.
