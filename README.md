@@ -16,9 +16,10 @@ The design of the art symbol is related to that of the [peace sign](https://en.w
 
 Possible meanings behind the art symbol include but are not limited to:
 
-- The arrows could represent art's ability to both cut to the center of issues as well as push their boundaries
-- The square around the arrows could represent the social constructs in which art always takes place
-- The offsetting of T could represent art's habit of breaking rules to create works that are aesthetically appealing
+- The arrows represent art's ability to both cut to the center of issues as well as push their boundaries
+- The square around the arrows represents the social constructs in which art always takes place
+- The offsetting of T represents art's habit of breaking rules to create works that are aesthetically appealing
+- That the symbol could also be read as "rat" represents the varied interpretations of every artistic piece
 
 # License
 
