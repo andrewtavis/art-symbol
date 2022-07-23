@@ -2,11 +2,11 @@
   <a href="https://github.com/andrewtavis/art-symbol"><img src="https://raw.githubusercontent.com/andrewtavis/art-symbol/main/art-symbol_grey_transparent.png" width=300 height=300 alt="art symbol"></a>
 </div>
 
----
+<ol></ol>
 
 [![license](https://img.shields.io/github/license/andrewtavis/art-symbol.svg)](https://github.com/andrewtavis/art-symbol/blob/main/LICENSE.txt)
 
-### A symbol for art following the peace sign design principles
+## A symbol for art following the peace sign design principles
 
 # Design
 
