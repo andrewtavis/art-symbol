@@ -6,7 +6,7 @@
 
 [![license](https://img.shields.io/github/license/andrewtavis/art-symbol.svg)](https://github.com/andrewtavis/art-symbol/blob/main/LICENSE.txt)
 
-## A symbol for art following the peace sign design principles
+### A symbol for art following the peace sign design principles
 
 # Design
 
